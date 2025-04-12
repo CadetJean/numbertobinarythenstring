@@ -1,3 +1,7 @@
+//step one get number then add them then convert to binary DONE
+//step 2 convert to string LEft TO FINISH
+
+
 /*Implement a function that adds two numbers together 
 and returns their sum in binary. The conversion can be done before, 
 or after the addition.
